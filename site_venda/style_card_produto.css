@@ -1,0 +1,53 @@
+
+#spanPromocao{
+    background-color: rgba(229, 67, 67, 0.993);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 4px 8px;
+    position: absolute;
+    top: -12px;
+    left: 80%;
+    border-radius: 5px;
+}
+
+#spanNomeProduto{
+    color: rgba(49, 49, 49, 0.863);
+    font-weight: bold;
+    margin-left: 12px;
+}
+
+.spanCaracteristicas{
+    background-color:rgba(245, 201, 208, 0.945);
+    color: white;
+    font-weight: bold;
+    padding: 4px 8px;
+    display: inline-block;
+    border-radius: 8px;
+    margin-bottom: 38px;
+    margin-left: 12px;  
+}
+
+#trPromocao{
+    position: relative;
+}
+
+.tdCardProduto{
+    text-align:center;
+    vertical-align:text-top;
+}
+
+#imgProduto{
+    border-radius:5px;         
+}
+
+#btnComprar{
+    background-color: rgb(107, 225, 119);
+    color: white;
+    font-weight: bold;
+    padding: 12px 24px;
+    border: 5px;
+    border-radius: 8px;
+    position:fixed;
+    right: 33%;
+
+}
